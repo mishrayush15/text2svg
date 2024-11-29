@@ -24,7 +24,7 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone URL OF THE REPOSITORY
+git clone https://github.com/mishrayush15/text2svg
 ```
 
 ### 2. Change your directory
